@@ -1,0 +1,14 @@
+.empty {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.empty svg {
+  width: 500px;
+  height: 500px;
+  color: #fe5d42;
+}
+.empty h3 {
+  font-size: 3rem;
+}
